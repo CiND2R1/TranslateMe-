@@ -32,4 +32,5 @@ Output: H:/ll/ W/:/rld!
   pip install pyfiglet termcolor
 
 ## Run It
+```bash
 python TranslateME.py
